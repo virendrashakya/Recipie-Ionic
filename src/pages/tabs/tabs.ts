@@ -8,5 +8,5 @@ import { RecipesPage } from '../recipes/recipes';
 })
 export class TabsPage {
   slPage = ShoppingListPage;
-  recipesPage = RecipesPage;
+  recipesPage = RecipesPage; 
 }
